@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PagerSlidingTabStrip</string>
+
+    <string-array name="str_titles">
+        <item>Java</item>
+        <item>Android</item>
+        <item>IOS</item>
+        <item>C#</item>
+        <item>PHP</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>JavaScript</item>
+        <item>Html/CSS</item>
+        <item>ReactNative</item>
+    </string-array>
+</resources>

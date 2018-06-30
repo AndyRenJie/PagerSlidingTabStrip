@@ -1,0 +1,2 @@
+# PagerSlidingTabStrip
+一款自定义的PagerSlidingTabStrip，修改PagerSlidingTabStrip的源码，让它在标题栏标签文字和标签图片都能正常显示
